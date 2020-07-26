@@ -1,6 +1,6 @@
 import sys
 class customer:
-    bankname = 'STAATEE BANK OF INDIA'
+    bankname = 'STATE BANK OF INDIA'
     def __init__(self,name,balance = 0.0):
         self.name = name
         self.balance = balance
